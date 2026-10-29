@@ -53,7 +53,7 @@ Make sure you have Python 3.10+ and Git installed on your system.
 
 **Step 1: Clone the Repository**
 ```bash
-git clone https://github.com/geneve-creator/crypto-analytics-pipeline.git
+git clone https://github.com/cb-rizzo/crypto-analytics-pipeline.git
 cd crypto-analytics-pipeline
 ```
 
