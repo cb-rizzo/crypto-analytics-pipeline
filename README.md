@@ -30,6 +30,7 @@ Moving away from simple static scripts, this project implements a production-rea
 
 ## 📁 Project Structure
 crypto-analytics-pipeline/
+```text
 │
 ├── .github/
 │   └── workflows/
@@ -43,7 +44,7 @@ crypto-analytics-pipeline/
 ├── requirements.txt           # Project dependencies
 ├── .env.example               # Template for environment variables
 └── .gitignore                 # Files and folders ignored by Git
-
+```
 
 ## ⚙️ How to Install & Run Locally
 
