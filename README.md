@@ -30,6 +30,7 @@ Moving away from simple static scripts, this project implements a production-rea
 
 ## 📁 Project Structure
 crypto-analytics-pipeline/
+```text
 │
 ├── .github/
 │   └── workflows/
@@ -43,7 +44,7 @@ crypto-analytics-pipeline/
 ├── requirements.txt           # Project dependencies
 ├── .env.example               # Template for environment variables
 └── .gitignore                 # Files and folders ignored by Git
-
+```
 
 ## ⚙️ How to Install & Run Locally
 
@@ -52,7 +53,7 @@ Make sure you have Python 3.10+ and Git installed on your system.
 
 **Step 1: Clone the Repository**
 ```bash
-git clone https://github.com/geneve-creator/crypto-analytics-pipeline.git
+git clone https://github.com/cb-rizzo/crypto-analytics-pipeline.git
 cd crypto-analytics-pipeline
 ```
 
